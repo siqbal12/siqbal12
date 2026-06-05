@@ -1,8 +1,8 @@
 ## 😄 Hello there, I'm Suhaib!
 
-🎓 MS Computational Finance @ CMU
+🎓 MS -- Computational Finance @ CMU
 
-👨‍🎓 BS CS & Math             @ NEU
+👨‍🎓 BS -- CS & Math             @ NEU
 
 🧠 Interested in **📊 Quantitative Finance, 🤖 Machine Learning, ⚾️ Baseball Analytics**
 
