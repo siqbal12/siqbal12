@@ -4,7 +4,7 @@
 
 👨‍🎓 BS CS & Math             @ NEU
 
-👾 Interested in **📊 Quantitative Finance, 🧠 Machine Learning, and ⚾️ Baseball Analytics**
+📗 Interested in **📊 Quantitative Finance, 🧠 Machine Learning, and ⚾️ Baseball Analytics**
 
 #### 🗂 Notable Projects
 
