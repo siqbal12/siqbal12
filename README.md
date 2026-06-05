@@ -14,7 +14,7 @@
     - Build an engine to price exotic options (with web infrastructure)
 - [Volatility Risk Premium (VRP) Trading](https://github.com/siqbal12/VRP_Strategy_ML)
     - Forecasted Volatility Risk Premium to dynamically time trades on SPY
-- [Sentiment-Based Signal Generation on Meme Stocks](https://github.com/siqbal12/SentimentEquitySignal)
+- [Sentiment Signal Generation on Meme Stocks](https://github.com/siqbal12/SentimentEquitySignal)
     - Translated reddit sentiment analysis to stock trading signal
 
 #### 📞 How to Reach Me
