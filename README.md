@@ -12,9 +12,9 @@
     - Developed a Stat-Arb strategy to trade co-integrated pairs
 - [Exotic Options Pricing Engine](https://github.com/siqbal12/ExoticsEngine)
     - Build an engine to price exotic options (with web infrastructure)
-- [Volatility Risk Premium Trading](https://github.com/siqbal12/VRP_Strategy_ML)
+- [Volatility Risk Premium (VRP) Trading](https://github.com/siqbal12/VRP_Strategy_ML)
     - Forecasted Volatility Risk Premium to dynamically time trades on SPY
-- [Sentiment Analysis Trading on Meme Stocks](https://github.com/siqbal12/SentimentEquitySignal)
+- [Sentiment-Based Signal Generation on Meme Stocks](https://github.com/siqbal12/SentimentEquitySignal)
     - Translated reddit sentiment analysis to stock trading signal
 
 #### 📞 How to Reach Me
