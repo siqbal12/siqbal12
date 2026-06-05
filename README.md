@@ -1,4 +1,8 @@
-## Hi there 👋
+## 😄 Hello there, I'm Suhaib!
+
+🎓 MS Computational Finance @ CMU
+👨‍🎓 BS CS & Math             @ NEU
+🧠 Interested in **Quantitative Finance, Machine Learning, and Baseball Analytics**
 
 <!--
 **siqbal12/siqbal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
