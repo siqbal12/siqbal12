@@ -15,7 +15,7 @@
 - [Volatility Risk Premium Trading](https://github.com/siqbal12/VRP_Strategy_ML)
     - Forecasted Volatility Risk Premium to dynamically time trades on SPY
 - [Sentiment Analysis Trading on Meme Stocks](https://github.com/siqbal12/SentimentEquitySignal)
-    - Translated reddit sentiment analysis to meme stock trading signal
+    - Translated reddit sentiment analysis to stock trading signal
 
 #### 📞 How to Reach Me
 - 📬 <suhaibi@andrew.cmu.edu>
