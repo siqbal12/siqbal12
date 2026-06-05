@@ -6,6 +6,13 @@
 
 🧠 Interested in **Quantitative Finance, Machine Learning, and Baseball Analytics**
 
+#### 🗂 Notable Projects
+
+- [Pairs Trading](https://github.com/siqbal12/pairs-trading)
+- [Exotic Options Pricing Engine](https://github.com/siqbal12/ExoticsEngine)
+- [Volatility Risk Premium Trading](https://github.com/siqbal12/VRP_Strategy_ML)
+- [Sentiment Analysis Trading on Meme Stocks](https://github.com/siqbal12/SentimentEquitySignal)
+
 <!--
 **siqbal12/siqbal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
