@@ -12,7 +12,7 @@
     - Developed a Stat-Arb strategy to trade co-integrated pairs
 - [Exotic Options Pricing Engine](https://github.com/siqbal12/ExoticsEngine)
     - Built an engine to price exotic options (with web infrastructure)
-- [Yield Curve Decomposition w/ Trading](https://github.com/siqbal12/YieldCurveDecomposition)
+- [Fixed Income Trading](https://github.com/siqbal12/YieldCurveDecomposition)
     - Trade steepeners/flatteners on U.S. Treasury Yield Curve using PCA Decomposition & AR/VAR forecasts
 - [Volatility Risk Premium (VRP) Trading](https://github.com/siqbal12/VRP_Strategy_ML)
     - Forecasted Volatility Risk Premium to dynamically time trades on SPY
